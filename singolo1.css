@@ -99,17 +99,18 @@ body {
     font-weight: 900;
 }
 .services-header__descr {
-    line-height: 30px;
+    line-height: 29px;
     font-size: 18px;
+    font-weight: 400;
     height: 57px;
     overflow: hidden;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 .services-wrapper {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 50px;
+    margin-top: 45px;
 }
 .services-item {
     display: flex;
@@ -135,7 +136,8 @@ body {
     font-size: 18px;
     font-weight: 900;
     line-height: 18px;
-    margin-bottom: 12px;
+    margin-bottom: 9px;
+    padding-top: 2px;
 }
 .specification__descr {
     width: 219px;
